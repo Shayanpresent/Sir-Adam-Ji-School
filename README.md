@@ -6,7 +6,7 @@
   <title>Sir Adam Ji School</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Luckiest Guy, sans-serif;
       background: linear-gradient(to bottom right, #004d00, #ffffcc);
       margin: 0;
       padding: 0;
